@@ -1,0 +1,18 @@
+.validacion{
+    margin-right: auto;
+    margin-left: auto;
+    height: 30rem;
+    width: 30rem;
+    border-radius: 2rem;
+    border: 2px solid purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.validacion > input{
+    margin: 1.5rem;
+    width: 18rem;
+    height: 1.5rem;
+    border-radius: 2rem;
+}
